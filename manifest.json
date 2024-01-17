@@ -1,0 +1,31 @@
+{
+  "background_color": "#ffffff",
+  "description": "E-Notes is your go-to note-taking application on Windows, designed to elevate your organization and productivity. With a sleek and intuitive interface, this app offers a seamless platform for capturing and organizing your thoughts, ideas, and important information. Whether you're a student, professional, or anyone in need of efficient note-taking.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "E-Notes",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "E-Notes",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "./assets/ElectroNote.png",
+      "type": "image/png",
+      "sizes": "3075x3661"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "E-Notes",
+      "url": "",
+      "description": "Notes App For Taking Notes"
+    }
+  ]
+}
